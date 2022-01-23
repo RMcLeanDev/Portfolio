@@ -6,7 +6,7 @@ function Header(props){
 
     return (
         <div className='header'>
-            <div>
+            <div className="leftHeader">
                 <h1>Ryan McLean</h1>
             </div>
             <div className="rightHeader">
